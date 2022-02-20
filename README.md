@@ -1,4 +1,4 @@
-# Hi there, I'm Selva Subramanian 👋
+# Hi there 👋 I'm Selva Subramanian 
 
 🔭 I'm a data science trainee looking for entry-level opportunities, skilled in machine learning, SQL and Power BI. I also have a brief conceptual knowledge on deep learning and machine learning engineering.
 
