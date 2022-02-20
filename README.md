@@ -5,9 +5,8 @@
 
 🌱 I'm currently pursuing [Full Stack Data Science](https://www.almabetter.com/courses/data-science-pro-program) program from AlmaBetter. 
 
-### **Education**
 🎓 Government College of Engineering, Bodinayakannur
 Bachelor of Engineering – Civil Engineering	Theni, IN | Aug '16 - May '20
  
 ### **Connect with me**
-[linkedin]: https://www.linkedin.com/in/selva-subramanian-957361191/
+[linkedin]: linkedin.com/in/selva-subramanian-957361191
