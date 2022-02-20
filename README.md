@@ -5,7 +5,7 @@
 
 💬 I aspire to build AI-based solutions that solve a high-impact problem for people around the globe and simplify everyday living.
 
-👯 I'm interested in working and collaborating with fellow enthusiasts in the field of Data Science. If you have an idea related to my areas of interest, feel free to shoot me an [email](ce19.selva@gmail.com)
+👯 I'm interested in working and collaborating with fellow enthusiasts in the field of Data Science. If you have an idea related to my areas of interest, feel free to drop me an email to ce19.selva@gmail.com
 
 🌱 I'm currently pursuing [Full Stack Data Science](https://www.almabetter.com/courses/data-science-pro-program) program from AlmaBetter. 
 
@@ -13,4 +13,4 @@
 Bachelor of Engineering – Civil Engineering	Theni, IN | Aug '16 - May '20
  
 ### **Connect with me**
-(https://i.stack.imgur.com/gVE0j.png)(linkedin.com/in/selva-subramanian-957361191)
+(![LinkedIn]https://i.stack.imgur.com/gVE0j.png)(linkedin.com/in/selva-subramanian-957361191)
