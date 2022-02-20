@@ -11,4 +11,4 @@
 🎓 Government College of Engineering, Bodinayakannur
 Bachelor of Engineering – Civil Engineering	Theni, IN | Aug '16 - May '20
  
-![Linkedin](![image](https://user-images.githubusercontent.com/81951194/154852837-0ff41bbf-b371-4d37-95d8-128fa3343443.png) Connect with me on [LinkedIn](linkedin.com/in/selva-subramanian-957361191)
+![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn) Connect with me on [LinkedIn](linkedin.com/in/selva-subramanian-957361191)
