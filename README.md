@@ -8,4 +8,4 @@
 Bachelor of Engineering – Civil Engineering	Theni, IN | Aug '16 - May '20
  
 ### **Connect**
-[linkedin]: https://www.linkedin.com/in/selva-subramanian-957361191/
+[linkedin] : https://www.linkedin.com/in/selva-subramanian-957361191/
