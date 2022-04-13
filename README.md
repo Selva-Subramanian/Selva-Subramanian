@@ -6,7 +6,7 @@
 
 👯 I'm interested in working and collaborating with fellow enthusiasts in the field of Data Science. If you have an idea related to my areas of interest, feel free to drop an email to ce19.selva@gmail.com
 
-🌱 I'm currently pursuing [Full Stack Data Science](https://www.almabetter.com/courses/data-science-pro-program) program from AlmaBetter. 
+🌱 I'm currently pursuing [Full Stack Data Science](https://drive.google.com/drive/folders/1GrJLycURjGqsatndTb1O-7GNNZHlPXRi?usp=sharing) program from AlmaBetter. 
 
 📝 Check out my blogs in [medium](https://medium.com/@ce19-selva).
 
