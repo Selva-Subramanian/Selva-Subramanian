@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Selva Subramanian 
+# Hi there 👋 I'm Selva 
 
 🔭 I'm a data scientist intern at Argoid, skilled in python(data analytics), machine learning, SQL and Power BI. I've completed [deep learning specialization](https://drive.google.com/drive/folders/1qlf9P4xCXSbEkzFk0LN5CHIYusxSpXr0?usp=sharing) certification from deeplearning.ai through Coursera. I also have a brief knowledge on ML engineering.
 
