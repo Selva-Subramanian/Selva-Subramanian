@@ -4,7 +4,7 @@
 
 💬 I aspire to build AI-based solutions that solves high-impact problems for people around the globe and simplify everyday living.
 
-👯 I'm interested in working and collaborating with fellow enthusiasts in the field of Data Science. If you have an idea related to my areas of interest, feel free to drop an email to ce19.selva@gmail.com
+👯 I'm interested in working and collaborating with fellow enthusiasts in the field of Data Science. If you have any ideas related to my areas of interest, feel free to drop an email to ce19.selva@gmail.com
 
 🌱 I'm currently pursuing [Full Stack Data Science](https://drive.google.com/drive/folders/1GrJLycURjGqsatndTb1O-7GNNZHlPXRi?usp=sharing) program from AlmaBetter. 
 
