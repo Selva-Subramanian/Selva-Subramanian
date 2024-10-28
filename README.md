@@ -2,7 +2,7 @@
 
 🔭 I'm a data scientist intern at Argoid, skilled in python(data analytics), machine learning, SQL and Power BI. I've completed [deep learning specialization](https://drive.google.com/drive/folders/1qlf9P4xCXSbEkzFk0LN5CHIYusxSpXr0?usp=sharing) certification from deeplearning.ai through Coursera. I also have a brief knowledge on ML engineering.
 
-💬 I aspire to build AI-based solutions that solve a high-impact problem for people around the globe and simplify everyday living.
+💬 I aspire to build AI-based solutions that solves high-impact problems for people around the globe and simplify everyday living.
 
 👯 I'm interested in working and collaborating with fellow enthusiasts in the field of Data Science. If you have an idea related to my areas of interest, feel free to drop an email to ce19.selva@gmail.com
 
